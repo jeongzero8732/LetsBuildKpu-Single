@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f64be0a-921f-4189-b5d5-51ed62c8fef3" name="Default Changelist" comment="" />
+    <list default="true" id="4f64be0a-921f-4189-b5d5-51ed62c8fef3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -85,6 +87,17 @@
             <path>
               <item name="sohyun1" type="b2602c69:ProjectViewProjectNode" />
               <item name="sohyun1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sohyun1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sohyun1" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sohyun1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sohyun1" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,7 +229,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2660000" />
+    <option name="totallyTimeSpent" value="3438000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
