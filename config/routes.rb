@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'erase/index'
+
   root 'home#index'
   get 'home/index'
 
